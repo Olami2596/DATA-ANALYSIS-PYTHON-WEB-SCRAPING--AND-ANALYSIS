@@ -1,7 +1,7 @@
 # Car Sales Analysis
 
 ## Overview
-This project analyzes car sales data obtained from [The AA](https://www.theaa.com/cars/) website using Python libraries such as Beautiful Soup and Requests. The data was extracted, cleaned, and analyzed to derive insights into various aspects of car sales, including total sales based on year, comparison of sales by transmission type, popular car sales by body type, and top cars based on the number of reviews.
+This project analyzes car sales data obtained from [theaa](https://www.theaa.com/cars/) website using Python libraries such as Beautiful Soup and Requests. The data was extracted, cleaned, and analyzed to derive insights into various aspects of car sales, including total sales based on year, comparison of sales by transmission type, popular car sales by body type, and top cars based on the number of reviews.
 
 ## Data Extraction
 - The data was extracted from The AA website using Beautiful Soup and Requests libraries.
@@ -57,7 +57,7 @@ This project analyzes car sales data obtained from [The AA](https://www.theaa.co
 
 4. The top cars with the highest number of reviews were listed.
 
-|       title        | review_count |
+|       car          | review_count |
 |--------------------|--------------|
 |   Ford Fiesta      |     89520    |
 |   Ford Focus       |     37200    |
@@ -71,7 +71,7 @@ This project analyzes car sales data obtained from [The AA](https://www.theaa.co
 |   BMW 1 Series     |      1860    |
 
 ## Requirements
-- Python 3.x
+- Python
 - Beautiful Soup
 - Requests
 - Pandas
