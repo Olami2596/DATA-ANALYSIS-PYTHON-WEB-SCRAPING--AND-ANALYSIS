@@ -1,0 +1,1201 @@
+,title,id,price,location,mileage,year,fuel_type,transmission,body type,color,doors,engine_size,co2_transmission,review_count,rating
+0,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+2,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+3,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+4,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+5,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+6,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+7,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+8,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+9,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+10,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+11,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+12,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+13,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+14,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+15,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+16,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+17,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+18,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+19,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+20,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+21,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+22,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+23,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+24,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+25,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+26,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+27,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+28,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+29,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+30,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+31,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+32,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+33,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+34,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+35,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+36,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+37,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+38,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+39,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+40,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+41,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+42,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+43,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+44,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+45,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+46,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+47,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+48,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+49,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+50,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+51,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+52,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+53,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+54,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+55,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+56,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+57,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+58,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+59,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+60,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+61,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+62,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+63,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+64,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+65,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+66,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+67,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+68,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+69,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+70,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+71,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+72,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+73,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+74,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+75,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+76,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+77,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+78,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+79,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+80,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+81,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+82,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+83,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+84,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+85,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+86,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+87,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+88,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+89,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+90,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+91,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+92,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+93,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+94,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+95,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+96,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+97,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+98,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+99,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+100,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+101,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+102,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+103,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+104,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+105,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+106,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+107,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+108,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+109,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+110,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+111,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+112,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+113,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+114,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+115,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+116,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+117,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+118,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+119,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+120,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+121,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+122,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+123,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+124,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+125,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+126,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+127,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+128,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+129,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+130,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+131,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+132,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+133,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+134,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+135,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+136,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+137,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+138,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+139,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+140,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+141,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+142,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+143,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+144,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+145,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+146,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+147,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+148,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+149,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+150,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+151,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+152,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+153,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+154,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+155,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+156,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+157,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+158,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+159,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+160,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+161,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+162,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+163,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+164,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+165,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+166,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+167,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+168,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+169,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+170,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+171,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+172,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+173,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+174,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+175,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+176,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+177,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+178,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+179,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+180,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+181,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+182,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+183,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+184,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+185,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+186,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+187,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+188,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+189,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+190,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+191,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+192,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+193,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+194,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+195,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+196,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+197,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+198,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+199,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+200,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+201,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+202,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+203,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+204,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+205,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+206,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+207,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+208,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+209,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+210,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+211,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+212,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+213,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+214,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+215,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+216,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+217,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+218,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+219,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+220,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+221,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+222,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+223,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+224,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+225,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+226,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+227,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+228,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+229,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+230,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+231,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+232,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+233,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+234,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+235,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+236,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+237,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+238,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+239,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+240,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+241,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+242,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+243,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+244,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+245,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+246,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+247,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+248,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+249,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+250,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+251,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+252,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+253,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+254,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+255,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+256,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+257,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+258,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+259,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+260,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+261,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+262,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+263,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+264,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+265,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+266,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+267,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+268,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+269,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+270,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+271,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+272,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+273,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+274,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+275,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+276,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+277,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+278,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+279,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+280,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+281,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+282,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+283,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+284,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+285,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+286,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+287,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+288,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+289,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+290,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+291,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+292,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+293,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+294,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+295,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+296,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+297,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+298,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+299,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+300,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+301,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+302,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+303,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+304,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+305,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+306,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+307,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+308,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+309,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+310,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+311,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+312,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+313,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+314,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+315,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+316,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+317,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+318,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+319,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+320,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+321,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+322,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+323,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+324,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+325,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+326,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+327,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+328,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+329,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+330,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+331,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+332,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+333,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+334,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+335,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+336,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+337,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+338,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+339,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+340,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+341,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+342,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+343,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+344,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+345,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+346,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+347,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+348,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+349,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+350,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+351,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+352,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+353,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+354,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+355,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+356,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+357,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+358,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+359,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+360,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+361,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+362,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+363,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+364,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+365,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+366,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+367,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+368,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+369,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+370,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+371,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+372,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+373,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+374,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+375,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+376,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+377,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+378,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+379,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+380,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+381,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+382,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+383,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+384,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+385,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+386,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+387,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+388,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+389,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+390,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+391,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+392,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+393,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+394,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+395,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+396,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+397,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+398,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+399,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+400,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+401,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+402,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+403,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+404,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+405,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+406,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+407,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+408,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+409,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+410,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+411,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+412,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+413,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+414,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+415,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+416,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+417,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+418,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+419,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+420,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+421,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+422,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+423,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+424,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+425,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+426,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+427,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+428,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+429,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+430,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+431,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+432,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+433,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+434,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+435,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+436,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+437,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+438,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+439,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+440,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+441,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+442,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+443,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+444,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+445,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+446,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+447,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+448,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+449,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+450,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+451,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+452,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+453,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+454,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+455,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+456,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+457,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+458,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+459,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+460,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+461,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+462,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+463,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+464,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+465,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+466,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+467,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+468,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+469,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+470,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+471,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+472,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+473,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+474,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+475,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+476,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+477,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+478,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+479,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+480,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+481,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+482,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+483,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+484,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+485,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+486,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+487,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+488,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+489,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+490,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+491,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+492,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+493,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+494,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+495,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+496,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+497,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+498,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+499,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+500,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+501,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+502,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+503,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+504,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+505,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+506,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+507,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+508,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+509,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+510,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+511,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+512,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+513,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+514,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+515,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+516,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+517,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+518,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+519,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+520,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+521,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+522,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+523,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+524,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+525,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+526,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+527,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+528,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+529,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+530,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+531,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+532,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+533,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+534,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+535,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+536,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+537,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+538,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+539,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+540,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+541,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+542,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+543,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+544,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+545,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+546,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+547,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+548,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+549,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+550,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+551,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+552,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+553,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+554,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+555,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+556,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+557,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+558,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+559,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+560,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+561,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+562,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+563,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+564,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+565,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+566,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+567,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+568,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+569,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+570,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+571,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+572,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+573,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+574,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+575,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+576,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+577,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+578,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+579,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+580,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+581,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+582,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+583,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+584,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+585,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+586,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+587,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+588,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+589,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+590,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+591,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+592,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+593,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+594,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+595,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+596,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+597,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+598,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+599,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+600,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+601,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+602,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+603,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+604,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+605,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+606,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+607,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+608,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+609,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+610,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+611,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+612,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+613,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+614,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+615,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+616,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+617,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+618,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+619,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+620,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+621,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+622,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+623,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+624,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+625,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+626,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+627,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+628,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+629,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+630,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+631,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+632,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+633,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+634,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+635,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+636,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+637,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+638,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+639,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+640,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+641,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+642,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+643,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+644,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+645,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+646,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+647,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+648,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+649,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+650,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+651,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+652,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+653,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+654,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+655,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+656,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+657,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+658,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+659,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+660,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+661,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+662,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+663,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+664,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+665,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+666,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+667,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+668,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+669,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+670,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+671,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+672,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+673,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+674,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+675,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+676,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+677,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+678,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+679,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+680,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+681,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+682,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+683,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+684,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+685,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+686,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+687,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+688,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+689,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+690,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+691,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+692,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+693,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+694,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+695,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+696,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+697,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+698,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+699,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+700,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+701,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+702,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+703,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+704,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+705,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+706,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+707,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+708,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+709,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+710,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+711,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+712,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+713,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+714,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+715,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+716,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+717,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+718,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+719,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+720,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+721,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+722,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+723,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+724,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+725,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+726,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+727,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+728,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+729,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+730,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+731,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+732,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+733,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+734,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+735,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+736,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+737,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+738,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+739,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+740,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+741,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+742,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+743,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+744,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+745,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+746,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+747,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+748,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+749,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+750,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+751,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+752,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+753,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+754,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+755,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+756,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+757,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+758,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+759,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+760,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+761,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+762,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+763,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+764,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+765,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+766,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+767,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+768,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+769,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+770,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+771,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+772,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+773,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+774,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+775,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+776,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+777,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+778,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+779,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+780,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+781,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+782,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+783,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+784,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+785,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+786,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+787,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+788,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+789,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+790,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+791,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+792,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+793,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+794,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+795,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+796,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+797,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+798,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+799,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+800,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+801,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+802,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+803,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+804,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+805,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+806,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+807,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+808,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+809,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+810,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+811,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+812,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+813,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+814,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+815,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+816,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+817,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+818,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+819,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+820,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+821,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+822,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+823,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+824,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+825,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+826,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+827,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+828,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+829,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+830,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+831,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+832,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+833,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+834,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+835,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+836,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+837,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+838,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+839,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+840,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+841,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+842,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+843,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+844,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+845,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+846,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+847,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+848,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+849,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+850,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+851,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+852,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+853,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+854,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+855,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+856,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+857,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+858,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+859,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+860,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+861,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+862,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+863,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+864,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+865,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+866,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+867,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+868,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+869,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+870,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+871,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+872,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+873,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+874,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+875,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+876,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+877,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+878,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+879,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+880,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+881,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+882,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+883,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+884,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+885,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+886,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+887,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+888,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+889,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+890,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+891,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+892,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+893,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+894,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+895,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+896,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+897,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+898,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+899,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+900,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+901,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+902,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+903,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+904,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+905,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+906,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+907,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+908,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+909,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+910,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+911,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+912,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+913,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+914,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+915,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+916,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+917,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+918,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+919,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+920,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+921,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+922,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+923,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+924,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+925,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+926,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+927,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+928,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+929,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+930,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+931,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+932,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+933,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+934,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+935,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+936,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+937,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+938,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+939,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+940,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+941,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+942,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+943,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+944,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+945,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+946,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+947,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+948,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+949,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+950,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+951,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+952,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+953,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+954,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+955,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+956,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+957,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+958,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+959,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+960,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+961,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+962,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+963,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+964,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+965,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+966,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+967,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+968,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+969,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+970,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+971,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+972,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+973,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+974,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+975,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+976,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+977,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+978,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+979,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+980,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+981,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+982,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+983,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+984,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+985,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+986,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+987,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+988,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+989,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+990,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+991,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+992,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+993,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+994,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+995,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+996,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+997,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+998,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+999,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1000,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1001,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1002,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1003,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1004,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1005,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1006,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1007,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1008,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1009,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1010,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1011,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1012,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1013,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1014,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1015,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1016,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1017,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1018,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1019,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1020,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1021,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1022,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1023,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1024,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1025,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1026,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1027,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1028,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1029,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1030,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1031,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1032,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1033,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1034,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1035,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1036,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1037,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1038,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1039,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1040,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1041,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1042,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1043,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1044,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1045,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1046,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1047,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1048,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1049,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1050,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1051,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1052,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1053,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1054,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1055,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1056,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1057,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1058,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1059,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1060,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1061,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1062,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1063,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1064,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1065,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1066,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1067,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1068,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1069,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1070,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1071,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1072,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1073,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1074,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1075,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1076,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1077,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1078,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1079,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1080,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1081,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1082,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1083,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1084,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1085,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1086,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1087,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1088,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1089,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1090,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1091,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1092,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1093,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1094,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1095,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1096,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1097,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1098,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1099,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1100,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1101,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1102,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1103,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1104,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1105,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1106,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1107,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1108,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1109,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1110,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1111,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1112,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1113,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1114,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1115,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1116,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1117,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1118,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1119,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1120,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1121,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1122,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1123,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1124,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1125,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1126,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1127,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1128,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1129,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1130,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1131,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1132,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1133,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1134,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1135,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1136,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1137,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1138,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1139,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1140,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1141,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1142,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1143,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1144,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1145,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1146,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1147,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1148,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1149,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1150,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1151,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1152,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1153,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1154,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1155,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1156,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1157,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1158,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1159,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1160,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1161,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1162,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1163,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1164,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1165,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1166,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1167,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1168,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1169,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1170,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1171,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1172,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1173,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1174,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1175,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1176,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1177,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1178,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1179,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
+1180,Ford Fiesta,1131513,"10,200",Bristol Street Motors Ford Birmingham,"30,781",2016,Petrol,Manual,Hatchback,White,3,1.0 L,99 g/km,373,4.0
+1181,Ford Fiesta,1128402,"11,350",Bristol Street Motors Ford Birmingham,"20,986",2019,Petrol,Manual,Hatchback,Race red (standard colour),5,1.1 L,114 g/km,373,4.0
+1182,Peugeot 208,1130376,"11,850",Bristol Street Motors Ford Birmingham,"16,201",2019,Petrol,Manual,Hatchback,Black,5,1.2 L,110 g/km,24,4.5
+1183,Vauxhall Astra,1129335,"11,950",Bristol Street Motors Ford Birmingham,"50,071",2019,Petrol,Manual,Estate,Black,5,1.4 L,125 g/km,368,4.0
+1184,Ford Fiesta,1127601,"13,150",Bristol Street Motors Ford Birmingham,"15,606",2019,Petrol,Manual,Hatchback,Blue,5,1.0 L,113 g/km,373,4.0
+1185,Peugeot 3008,1130484,"15,500",Bristol Street Motors Ford Birmingham,"55,924",2018,Diesel,Manual,Estate,Black,5,1.6 L,104 g/km,28,4.5
+1186,Ford Focus,1128401,"15,850",Bristol Street Motors Ford Birmingham,"45,648",2020,Petrol,Automatic,Hatchback,Grey,5,1.0 L,134 g/km,620,4.0
+1187,Jaguar XJ,1127247,"16,000",Bristol Street Motors Ford Birmingham,"39,139",2011,Diesel,Automatic,Saloon,Red,4,3.0 L,184 g/km,39,4.5
+1188,SEAT Ibiza,1129829,"16,350",Bristol Street Motors Ford Birmingham,"14,178",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,107 g/km,47,4.0
+1189,Audi A3,1127254,"16,650",Bristol Street Motors Ford Birmingham,"41,941",2018,Petrol,Manual,Hatchback,White,5,1.0 L,108 g/km,76,4.5
+1190,BMW 1 Series,1127015,"17,000",Bristol Street Motors Ford Birmingham,"14,304",2018,Petrol,Manual,Hatchback,White,5,1.5 L,126 g/km,31,4.0
+1191,Ford Fiesta,1131512,"17,450",Bristol Street Motors Ford Birmingham,"11,867",2020,Petrol,Manual,Hatchback,Silver,5,1.0 L,121 g/km,373,4.0
+1192,Ford Puma,1127249,"18,650",Bristol Street Motors Ford Birmingham,"20,391",2020,Petrol,Manual,Hatchback,Red,5,1.0 L,133 g/km,9,4.0
+1193,Volkswagen Golf,1126690,"19,100",Bristol Street Motors Ford Birmingham,"32,945",2019,Petrol,Manual,Hatchback,White,5,1.5 L,120 g/km,157,4.5
+1194,Ford S-MAX,1130488,"19,240",Bristol Street Motors Ford Birmingham,"48,535",2019,Diesel,Automatic,Estate,Grey,5,2.0 L,139 g/km,25,4.5
+1195,Kia Sportage,1126691,"19,350",Bristol Street Motors Ford Birmingham,"14,877",2016,Diesel,Automatic,Estate,Black,5,2.0 L,166 g/km,45,4.5
+1196,Audi A3,1127497,"19,450",Bristol Street Motors Ford Birmingham,"23,150",2018,Petrol,Manual,Hatchback,Grey,5,1.0 L,118 g/km,76,4.5
+1197,Ford Puma,1130754,"21,150",Bristol Street Motors Ford Birmingham,"10,184",2021,Petrol,Manual,Hatchback,Blue,5,1.0 L,127 g/km,9,4.0
+1198,Ford Puma,1131259,"21,700",Bristol Street Motors Ford Birmingham,"23,661",2021,Petrol,Automatic,Hatchback,Desert island blue (exclusive paint),5,1.0 L,139 g/km,9,4.0
+1199,Nissan Qashqai,1127602,"21,900",Bristol Street Motors Ford Birmingham,"8,223",2019,Petrol,Automatic,Hatchback,Blue,5,1.3 L,131 g/km,100,4.5
